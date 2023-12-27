@@ -1,0 +1,80 @@
+export const ClinicalCare = [
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+  {
+    sender: "Marlene, Jimenez, MA",
+    date: "07/02/2021",
+    min: "2",
+    desc: "RPM logged vitals reviewed. Current care plan appropriate for patient at this time. No additional action needed. Will continue tomonitor patient vitals closely.",
+  },
+];
